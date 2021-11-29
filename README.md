@@ -16,6 +16,7 @@
   <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-VScode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   <img align="center" alt="Paulo-PHPstorm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
+  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="Paulo-MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img align="center" alt="Paulo-GIMP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg">
 </div>
