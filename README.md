@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Paulo Rocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 Quero trabalhar com Desenvolvimento Front-End
-- 🌱 Estou estudando HTML5, CSS3 e JavaScript
-- 🤔 Preciso de ajuda para ingressar no primeiro emprego
+- 🔭 Sou programador em início de carreira e apaixonado pela minha profissão
+- 🌱 Estou sempre estudando e me aperfeiçoando em tudo que envolve o universo da programação
 
 <div align="center">
   <a href="https://github.com/prochadev">
