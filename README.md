@@ -1,7 +1,4 @@
-## Olá! Eu sou o Paulo Rocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-- 🔭 Sou programador em início de carreira e apaixonado pela minha profissão
-- 🌱 Estou sempre estudando e me aperfeiçoando em tudo que envolve o universo da programação
+## Olá! Eu sou o Paulo Rocha, programador por diversão e profissão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
   <a href="https://github.com/prochadev">
