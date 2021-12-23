@@ -9,6 +9,7 @@
   <img align="center" alt="Paulo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-TS" height="30" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
   <img align="center" alt="Paulo-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.png">
+  <img align="center" alt="Paulo-Nodejs" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paulo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
