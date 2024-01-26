@@ -1,4 +1,4 @@
-## Olá! Eu sou o Paulo Rocha, programador por diversão e profissão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá! Eu sou o Paulo Rocha, dev por diversão e profissão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
   <a href="https://github.com/prochadev">
